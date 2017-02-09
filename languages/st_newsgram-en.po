@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ritzy Newsgram\n"
+"POT-Creation-Date: 2016-05-03 11:46+0100\n"
+"PO-Revision-Date: 2016-05-03 11:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: newsgram.php:32 newsgram.php:90
+msgid "Newsgram"
+msgstr ""
+
+#: newsgram.php:37
+msgid "Channel name (without @)"
+msgstr ""
+
+#: newsgram.php:38
+msgid ""
+"Insert the name of the Telegram Channel which you will send your messages "
+"and posts. <b>Be sure to write it correctly</b>"
+msgstr ""
+
+#: newsgram.php:44
+msgid "Telegram Channel BOT ID"
+msgstr ""
+
+#: newsgram.php:47
+msgid ""
+"Insert the name of the Telegram Bot ID for sending your messages and posts. "
+"Please contact special-themes.com if you haven't it"
+msgstr ""
+
+#: newsgram.php:53
+msgid "Send automatically post to channel"
+msgstr ""
+
+#: newsgram.php:54
+msgid "Activate the automatic send of the post link to your channel"
+msgstr ""
+
+#: newsgram.php:63
+msgid "Intro text "
+msgstr ""
+
+#: newsgram.php:64
+msgid "Intro text for the newsgram with link of the post"
+msgstr ""
+
+#: newsgram.php:89 newsgram.php:100
+msgid "Newsgrams"
+msgstr ""
+
+#: newsgram.php:91
+msgid "Add New"
+msgstr ""
+
+#: newsgram.php:92
+msgid "Add new newsgram"
+msgstr ""
+
+#: newsgram.php:93
+msgid "Edit newsgram"
+msgstr ""
+
+#: newsgram.php:94
+msgid "New newsgram"
+msgstr ""
+
+#: newsgram.php:95
+msgid "View newsgram"
+msgstr ""
+
+#: newsgram.php:96
+msgid "Search newsgram"
+msgstr ""
+
+#: newsgram.php:97
+msgid "No newsgram found"
+msgstr ""
+
+#: newsgram.php:98
+msgid "No newsgram found in Trash"
+msgstr ""
+
+#: newsgram.php:99
+msgid "Parent newsgram:"
+msgstr ""
+
+#: newsgram.php:106
+msgid "Custom Post Type - newsgram Pages"
+msgstr ""
+
+#: newsgram.php:133
+msgid "Title"
+msgstr ""
+
+#: newsgram.php:134
+msgid "Type"
+msgstr ""
+
+#: newsgram.php:135
+msgid "Author"
+msgstr ""
+
+#: newsgram.php:136
+msgid "Date"
+msgstr ""
+
+#: newsgram.php:160
+msgid "ritzy newsgram items"
+msgstr ""
+
+#: newsgram.php:167
+msgid "Newsgram Content"
+msgstr ""
+
+#: newsgram.php:173
+msgid "Type of newsgram"
+msgstr ""
+
+#: newsgram.php:174
+msgid "You can send a newsgram containing text (link included) or image."
+msgstr ""
+
+#: newsgram.php:182 newsgram.php:198
+msgid "Text"
+msgstr ""
+
+#: newsgram.php:187 newsgram.php:206
+msgid "Image"
+msgstr ""
+
+#: newsgram.php:192
+msgid "Post"
+msgstr ""
+
+#: newsgram.php:201
+msgid "Text of the newsgram"
+msgstr ""
+
+#: newsgram.php:209
+msgid "Image of the newsgram"
+msgstr ""
+
+#: newsgram.php:214
+msgid "Intro Text"
+msgstr ""
+
+#: newsgram.php:217
+msgid "Intro text of the newsgram with post link"
+msgstr ""
+
+#: newsgram.php:223
+msgid "Posts"
+msgstr ""
+
+#: newsgram.php:224
+msgid "Select one post to send."
+msgstr ""
